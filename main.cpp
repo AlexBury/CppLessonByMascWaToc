@@ -20,7 +20,6 @@ void binarySearch(int arr[], int target, int size, int left, int right, int resu
     }
 
     if (result != -1) {
-        std::cout << target << " | " << result << std::endl;
     }
 }
 
